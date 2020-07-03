@@ -1,3 +1,14 @@
+<h3> Instalasi </h3>
+<ul>
+<li>download terlebih dahulu postman untuk uji coba API, visual studio code untuk text editor, xampp untuk DBMS </li>
+</ul>
+<ul>
+<li>Setelah itu import database sql "gusma-rest-api.sql" yang sudah tersedia</li>
+<li>buka folder di visual studio code </li>
+<li>Di vs code klik view lalu pilih terminal</li>
+<li>masukan script berikut pada terminal "php -S localhost:8000 -t public"</li>
+</ul>
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
